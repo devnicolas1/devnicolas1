@@ -2,9 +2,6 @@
     <a target='_blank' href="https://linkedin.com/in/devnicolas1">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a target='_blank' href="https://twitter.com/devnicolas1">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
 </div>
 
 ## Who am I?
@@ -20,4 +17,4 @@ On my free time, I like to create content to help others, while also learning an
 
 ## How to talk to me?
 
-* You can contact me through Twitter on Linkedin. Both links are listed above!
+* You can contact me through Linkedin. Link is listed above!
